@@ -24,7 +24,17 @@ Todas las variables CSS están definidas en `globals.css`.
 
 ## Colores
 
-### Primary (Brand)
+### Brand Accent — Identidad Amplifica
+
+| Token | Hex | Uso |
+|-------|-----|-----|
+| `brand-yellow` | `#FEDE00` | Amarillo Amplifica — indicadores activos, avatares, acento sidebar |
+| `brand-navy`   | `#141449` | Navy Amplifica — fondo sidebar, panel login (= primary-900) |
+
+> `#FEDE00` para acentos en fondos oscuros (`#141449`). En fondos claros: paleta `primary-*` (azul).
+> Logo: `logo-yellow-white.png` en fondos oscuros · `logo-black.png` en fondos claros.
+
+### Primary (Brand — Azul)
 
 | Token | Hex |
 |-------|-----|
